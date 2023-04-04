@@ -1,4 +1,10 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+* {
+  font-family: "Poppins", Sans-Serif;
+}
+
+body { 
   background: #f1f3f6;
   margin: 0;
   height: 100vh;
@@ -10,19 +16,22 @@ body {
   box-shadow: 10px 10px 30px #c1c9d2, -10px -10px 30px #ffffff;
   border-radius: 20px;
   overflow: hidden;
+  padding: 20px;
   color: #1f1f2b;
   background: #f1f3f6;
+  user-select: none;
 }
 
 input {
   width: 200px;
   text-align: center;
+  border-radius: 100px;
   padding: 10px;
   font-size: 1.7rem;
   background: #e0e5ec;
   outline: none;
   border: none;
-  box-shadow: inset 5px 5px 10px #c1c9d2, inset -5px -5px 10px #ffffff;
+  box-shadow: inset 5px 5px 5px #c1c9d2, inset -5px -5px 10px #ffffff;
 }
 
 .options {
@@ -50,7 +59,9 @@ input {
 .select {
   text-align: center;
   display: block;
-  background: #e0e5ec;
+  margin: 5px;
+  background: #686de0;
+  color: #f1f3f6;
   padding: 10px;
   font-size: 1.2rem;
   font-weight: bold;
