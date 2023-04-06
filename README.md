@@ -13,9 +13,7 @@ Sebuah tools yang berfungsi untuk mengkonversi satuan panjang :
 
 ## Clone this repo
 ```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
+git clone https://github.com/hilman-aprdi/length-unit-converter/
 ```
 
 ## Demo
