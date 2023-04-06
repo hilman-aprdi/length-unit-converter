@@ -1,4 +1,4 @@
-// memilih elemen select, options dan input dari DOM
+
 const selects = document.querySelector(".select"),
       options = document.querySelector(".options"),
       labels = options.querySelectorAll("label"),
