@@ -11,5 +11,12 @@ Sebuah tools yang berfungsi untuk mengkonversi satuan panjang :
 ## Preview 
 ![length-converter-preview](preview.jpg)
 
+## Clone this repo
+```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
+
 ## Demo
 [Click me plzz](https://hilman-aprdi.github.io/length-unit-converter/)
