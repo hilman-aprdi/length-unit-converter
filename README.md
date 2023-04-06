@@ -11,10 +11,10 @@ Sebuah tools yang berfungsi untuk mengkonversi satuan panjang :
 ## Preview 
 ![length-converter-preview](preview.jpg)
 
+## Demo
+[Click me plzz](https://hilman-aprdi.github.io/length-unit-converter/)
+
 ## Clone this repo
 ```
 git clone https://github.com/hilman-aprdi/length-unit-converter/
 ```
-
-## Demo
-[Click me plzz](https://hilman-aprdi.github.io/length-unit-converter/)
